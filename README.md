@@ -220,28 +220,27 @@ Stay connected with us for updates, announcements, and discussions:
 <td><h3 id="probability-and-statistics"><a href="Probability-Statistics-Readme.md">Probability and Statistics</h3></td>
 
 <td>
-
-<br><input type="checkbox">   Counting (Permutations and Combinations) 
-<br><input type="checkbox">   Probability Axioms
-<br><input type="checkbox">   Sample Space
-<br><input type="checkbox">   Events
-<br><input type="checkbox">   Independent Events
-<br><input type="checkbox">   Mutually Exclusive Events
-<br><input type="checkbox">   Marginal, Conditional, and Joint Probability
-<br><input type="checkbox">   Bayes' Theorem
-<br><input type="checkbox">   Conditional Expectation and Variance
-<br><input type="checkbox">   Mean, Median, Mode, and Standard Deviation
-<br><input type="checkbox">   Correlation and Covariance
-<br><input type="checkbox">   Random Variables
-<br><input type="checkbox">   Discrete Random Variables and Probability Mass Functions (Uniform, Bernoulli, Binomial Distribution)
-<br><input type="checkbox">   Continuous Random Variables and Probability Distribution Functions (Uniform, Exponential, Poisson, Normal, Standard Normal, t-Distribution, Chi-Squared Distributions)
-<br><input type="checkbox">   Cumulative Distribution Function
-<br><input type="checkbox">   Conditional Probability Density Function
-<br><input type="checkbox">   Central Limit Theorem
-<br><input type="checkbox">   Confidence Interval
-<br><input type="checkbox">   z-Test
-<br><input type="checkbox">   t-Test
-<br><input type="checkbox">   Chi-Squared Test
+*   Counting (Permutations and Combinations)
+*   Probability Axioms
+*   Sample Space
+*   Events
+*   Independent Events
+*   Mutually Exclusive Events
+*   Marginal, Conditional, and Joint Probability
+*   Bayes' Theorem
+*   Conditional Expectation and Variance
+*   Mean, Median, Mode, and Standard Deviation
+*   Correlation and Covariance
+*   Random Variables
+*   Discrete Random Variables and Probability Mass Functions (Uniform, Bernoulli, Binomial Distribution)
+*   Continuous Random Variables and Probability Distribution Functions (Uniform, Exponential, Poisson, Normal, Standard Normal, t-Distribution, Chi-Squared Distributions)
+*   Cumulative Distribution Function
+*   Conditional Probability Density Function
+*   Central Limit Theorem
+*   Confidence Interval
+*   z-Test
+*   t-Test
+*   Chi-Squared Test
 
 </td>
 
@@ -253,24 +252,24 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>
 
-<br><input type="checkbox">   Vector Space
-<br><input type="checkbox">   Subspaces
-<br><input type="checkbox">   Linear Dependence and Independence of Vectors
-<br><input type="checkbox">   Matrices
-<br><input type="checkbox">   Projection Matrix
-<br><input type="checkbox">   Orthogonal Matrix
-<br><input type="checkbox">   Idempotent Matrix
-<br><input type="checkbox">   Partition Matrix and Their Properties
-<br><input type="checkbox">   Quadratic Forms
-<br><input type="checkbox">   Systems of Linear Equations and Solutions
-<br><input type="checkbox">   Gaussian Elimination
-<br><input type="checkbox">   Eigenvalues and Eigenvectors
-<br><input type="checkbox">   Determinant
-<br><input type="checkbox">   Rank
-<br><input type="checkbox">   Nullity
-<br><input type="checkbox">   Projections
-<br><input type="checkbox">   LU Decomposition
-<br><input type="checkbox">   Singular Value Decomposition
+*   Vector Space
+*   Subspaces
+*   Linear Dependence and Independence of Vectors
+*   Matrices
+*   Projection Matrix
+*   Orthogonal Matrix
+*   Idempotent Matrix
+*   Partition Matrix and Their Properties
+*   Quadratic Forms
+*   Systems of Linear Equations and Solutions
+*   Gaussian Elimination
+*   Eigenvalues and Eigenvectors
+*   Determinant
+*   Rank
+*   Nullity
+*   Projections
+*   LU Decomposition
+*   Singular Value Decomposition
 
 </td>
 
@@ -282,12 +281,12 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>
 
-<br><input type="checkbox">   Functions of a Single Variable
-<br><input type="checkbox">   Limit
-<br><input type="checkbox">   Continuity and Differentiability
-<br><input type="checkbox">   Taylor Series
-<br><input type="checkbox">   Maxima and Minima
-<br><input type="checkbox">   Optimization Involving a Single Variable
+*   Functions of a Single Variable
+*   Limit
+*   Continuity and Differentiability
+*   Taylor Series
+*   Maxima and Minima
+*   Optimization Involving a Single Variable
 
 </td>
 
@@ -299,13 +298,13 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>
 
-<br><input type="checkbox">   Programming in Python
-<br><input type="checkbox">   Basic Data Structures: Stacks, Queues, Linked Lists, Trees, and Hash Tables
-<br><input type="checkbox">   Search Algorithms: Linear Search and Binary Search
-<br><input type="checkbox">   Basic Sorting Algorithms: Selection Sort, Bubble Sort, Insertion Sort
-<br><input type="checkbox">   Divide and Conquer Techniques: Mergesort, Quicksort
-<br><input type="checkbox">   Introduction to Graph Theory
-<br><input type="checkbox">   Basic Graph Algorithms: Traversals and the Shortest Path
+*   Programming in Python
+*   Basic Data Structures: Stacks, Queues, Linked Lists, Trees, and Hash Tables
+*   Search Algorithms: Linear Search and Binary Search
+*   Basic Sorting Algorithms: Selection Sort, Bubble Sort, Insertion Sort
+*   Divide and Conquer Techniques: Mergesort, Quicksort
+*   Introduction to Graph Theory
+*   Basic Graph Algorithms: Traversals and the Shortest Path
 
 </td>
 
@@ -317,18 +316,18 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>
 
-<br><input type="checkbox">   ER-Model (Entity-Relationship Model)
-<br><input type="checkbox">   Relational Model: Relational Algebra, Tuple Calculus
-<br><input type="checkbox">   SQL (Structured Query Language)
-<br><input type="checkbox">   Integrity Constraints
-<br><input type="checkbox">   Normal Form
-<br><input type="checkbox">   File Organization
-<br><input type="checkbox">   Indexing
-<br><input type="checkbox">   Data Types
-<br><input type="checkbox">   Data Transformation: Normalization, Discretization, Sampling, and Compression
-<br><input type="checkbox">   Data Warehouse Modeling: Schema for Multidimensional Data Models
-<br><input type="checkbox">   Concept Hierarchies
-<br><input type="checkbox">   Measures: Categorization and Computations
+*   ER-Model (Entity-Relationship Model)
+*   Relational Model: Relational Algebra, Tuple Calculus
+*   SQL (Structured Query Language)
+*   Integrity Constraints
+*   Normal Form
+*   File Organization
+*   Indexing
+*   Data Types
+*   Data Transformation: Normalization, Discretization, Sampling, and Compression
+*   Data Warehouse Modeling: Schema for Multidimensional Data Models
+*   Concept Hierarchies
+*   Measures: Categorization and Computations
 
 </td>
 
@@ -340,26 +339,26 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>Supervised Learning:
 
-<br><input type="checkbox">   Regression and Classification Problems
-<br><input type="checkbox">   Simple Linear Regression
-<br><input type="checkbox">   Multiple Linear Regression
-<br><input type="checkbox">   Ridge Regression
-<br><input type="checkbox">   Logistic Regression
-<br><input type="checkbox">   k-Nearest Neighbors
-<br><input type="checkbox">   Naive Bayes Classifier
-<br><input type="checkbox">   Linear Discriminant Analysis
-<br><input type="checkbox">   Support Vector Machine
-<br><input type="checkbox">   Decision Trees
-<br><input type="checkbox">   Bias-Variance Trade-off
-<br><input type="checkbox">   Cross-validation Methods: Leave-One-Out (LOO) Cross-validation, k-Folds Cross-validation
-<br><input type="checkbox">   Multi-layer Perceptron
-<br><input type="checkbox">   Feed-forward Neural Network
-<br><input type="checkbox">   Unsupervised Learning:
-<br><input type="checkbox">   Clustering Algorithms
-<br><input type="checkbox">   k-Means and k-Medoid Clustering
-<br><input type="checkbox">   Hierarchical Clustering
-<br><input type="checkbox">   Dimensionality Reduction
-<br><input type="checkbox">   Principal Component Analysis (PCA)
+*   Regression and Classification Problems
+*   Simple Linear Regression
+*   Multiple Linear Regression
+*   Ridge Regression
+*   Logistic Regression
+*   k-Nearest Neighbors
+*   Naive Bayes Classifier
+*   Linear Discriminant Analysis
+*   Support Vector Machine
+*   Decision Trees
+*   Bias-Variance Trade-off
+*   Cross-validation Methods: Leave-One-Out (LOO) Cross-validation, k-Folds Cross-validation
+*   Multi-layer Perceptron
+*   Feed-forward Neural Network
+*   Unsupervised Learning:
+*   Clustering Algorithms
+*   k-Means and k-Medoid Clustering
+*   Hierarchical Clustering
+*   Dimensionality Reduction
+*   Principal Component Analysis (PCA)
 
 </td>
 
@@ -371,12 +370,12 @@ Stay connected with us for updates, announcements, and discussions:
 
 <td>
 
-<br><input type="checkbox">   Search: Informed Search, Uninformed Search, Adversarial Search
-<br><input type="checkbox">   Logic: Propositional Logic, Predicate Logic
-<br><input type="checkbox">   Reasoning under Uncertainty Topics:
-<br><input type="checkbox">   Conditional Independence Representation
-<br><input type="checkbox">   Exact Inference through Variable Elimination
-<br><input type="checkbox">   Approximate Inference through Sampling
+*   Search: Informed Search, Uninformed Search, Adversarial Search
+*   Logic: Propositional Logic, Predicate Logic
+*   Reasoning under Uncertainty Topics:
+*   Conditional Independence Representation
+*   Exact Inference through Variable Elimination
+*   Approximate Inference through Sampling
 
 </td>
 
