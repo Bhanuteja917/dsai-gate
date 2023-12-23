@@ -220,6 +220,7 @@ Stay connected with us for updates, announcements, and discussions:
 <td><h3 id="probability-and-statistics"><a href="Probability-Statistics-Readme.md">Probability and Statistics</h3></td>
 
 <td>
+ 
 *   Counting (Permutations and Combinations)
 *   Probability Axioms
 *   Sample Space
